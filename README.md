@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Akith-002
+- 👋 Hi, I’m Akith Chandinu
+- 🎓 Undergradute of University of Moratuwa
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python, Web designing, Data structures
 - 📫 How to reach me thorugh my Linkedin account
