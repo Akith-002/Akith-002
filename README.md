@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akith-002
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python, Web designing, Data structures
-- 📫 How to reach me ...
+- 📫 How to reach me thorugh my Linkedin account
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Big Anime fan. Also love to watch films, tv series at my free time.
 
