@@ -1,8 +1,9 @@
+# Hi, there! <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height= 30px>
 - 👋 Hi, I’m Akith Chandinu
-- 🎓 Undergradute of University of Moratuwa
+- 🎓 Currently an undergradute of University of Moratuwa, Faculty of IT.
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python, Web designing, Data structures
-- 📫 How to reach me thorugh my Linkedin account
+- 📫 Reach me thorugh my Linkedin account
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Big Anime fan. Also love to watch films, tv series at my free time.
 
