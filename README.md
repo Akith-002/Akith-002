@@ -113,8 +113,8 @@ const akith = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akith-002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Akith-002&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
+<img width="59%" src="https://github-readme-stats.vercel.app/api?username=Akith-002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akith-002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akith-002&custom_title=Contribution%20Timeline&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true" />
 
